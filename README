@@ -1,0 +1,24 @@
+---------------
+ libtiled Android
+---------------
+
+This is a small library meant to make it easy to use Tiled maps in your Android
+project. It is based on the Java version of Tiled.
+
+This small library is LGPL licensed (meaning you can use libtiled-android as-is
+in proprietary software, but if you change libtiled-android itself and distribute
+it you have to share the source as required by the LGPL). See the COPYING file
+for details.
+
+It is an adaptation of the orginial libtiled-java.
+
+---------
+ Authors
+---------
+
+Adam Turk <aturk@biggeruniverse.com> (original libtiled-java)
+Thorbjørn Lindeijer <thorbjorn@lindeijer.nl> (original libtiled-java)
+devnewton <devnewton@bci.im> (Android port)
+
+http://www.mapeditor.org/
+http://bci.im
